@@ -61,7 +61,7 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-name="AKİT TV" tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="Uncategorized",AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR|🇹🇷 TV",A HABER
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="|TR|🇹🇷 TV",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="Uncategorized",A HABER
 https://anym3u8player.com/youtube.php/id/68f4c967d2678.m3u8
@@ -1255,17 +1255,17 @@ https://live.tvkomala.com/live/komala/chunks.m3u8
 http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 tvg-name="JÎN TV" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="Uncategorized",JÎN TV
 https://live.jintv.org/medialive/jintv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="|TR|🇹🇷 Müzik",TRT MÜZIK
+#EXTINF:-1 tvg-name="TRT MÜZIK" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="|TR|🇹🇷 Müzik",TRT MÜZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2yCF7ms/nr1-damar.png" group-title="|TR|🇹🇷 Müzik",NR.1 DAMAR
+#EXTINF:-1 tvg-name="NR.1 DAMAR" tvg-logo="https://i.ibb.co/2yCF7ms/nr1-damar.png" group-title="|TR|🇹🇷 Müzik",NR.1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/radyo/akra-fm.png" group-title="|TR|🇹🇷 Islam",AKRA FM (RADYO)
+#EXTINF:-1 tvg-name="AKRA FM (RADYO)" tvg-logo="https://www.yilmaztv.com/logo/radyo/akra-fm.png" group-title="|TR|🇹🇷 Islam",AKRA FM (RADYO)
 http://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/radyo/dost-fm.png" group-title="|TR|🇹🇷 Islam",DOST FM (RADYO)
+#EXTINF:-1 tvg-name="DOST FM (RADYO)" tvg-logo="https://www.yilmaztv.com/logo/radyo/dost-fm.png" group-title="|TR|🇹🇷 Islam",DOST FM (RADYO)
 http://yayin.dostfm.com:8920/;?type=mp3
-#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-kuran-meali.png" group-title="|TR|🇹🇷 Islam",Radyo 7 Kur'an Meali (RADYO)
+#EXTINF:-1 tvg-name="Radyo 7 Kur'an Meali (RADYO)" tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-kuran-meali.png" group-title="|TR|🇹🇷 Islam",Radyo 7 Kur'an Meali (RADYO)
 http://37.247.98.8/stream/33/?/;?type=mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="|TR|🇹🇷 Islam",SAUDI SUNNAH
+#EXTINF:-1 tvg-name="SAUDI SUNNAH" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="|TR|🇹🇷 Islam",SAUDI SUNNAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png" group-title="|TR|🇹🇷 Islam",DIYANET TV
+#EXTINF:-1 tvg-name="DIYANET TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png" group-title="|TR|🇹🇷 Islam",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
