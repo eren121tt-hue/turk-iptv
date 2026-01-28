@@ -17,7 +17,7 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1 tvg-name="MK TV" tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png" group-title="Uncategorized",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 tvg-name="HALK TV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Uncategorized",HALK TV
+#EXTINF:-1 tvg-name="HALK TV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="|TR|🇹🇷 TV",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Uncategorized",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
@@ -40,7 +40,7 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8
 #EXTINF:-1 tvg-name="EKO TÜRK" tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="Uncategorized",EKO TÜRK
 https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="|TR|🇹🇷 TV",CNN TÜRK
-https://reform-invited-turns-irc.trycloudflare.com/live.m3u
+https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Uncategorized",CNN TÜRK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-name="KRT" tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="Uncategorized",KRT
@@ -222,7 +222,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-name="STAR" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Uncategorized",STAR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-name="STAR" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="|TR|🇹🇷 TV",STAR
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1769478140/ei/nMN3adHAL8jkxN8P7OHcqAo/ip/2003:d2:3f23:8e00:2421:8dec:4598:27e8/id/82O6yOy_XwE.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-h0jelne7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/de/bui/AW-iu_qyydzdIbAhZFVfG2YQfmGihKWT29HDFPPC2iWBnfXRQQbtCoBrCQITtmfD5TLINnvLeSPyW6qh/spc/q5xjPAv5zRSZxwdzyQx6/vprv/1/playlist_type/DVR/initcwndbps/2586250/met/1769456541,/mh/DY/mm/44/mn/sn-h0jelne7/ms/lva/mv/m/mvi/5/pl/44/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51514994,51552689,51565115,51565682,51580968/mt/1769455948/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhALg4xPHdL4HWeF2nSIMyYhytG2r17zmP7NEtr5y6Mbe9AiEAsojMVCX1TFKhKye3kd2ynIdXNh5P2xGx26XcZqgVp5c%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgfquyF3LC4oaj-5_xXB2JZDVMaKrTf9cqwGlR6IMYuA0CIQCuNsNv2XJ35lOQs5KzOvmkDlrM6az-a0s32pDlBcxdxw%3D%3D/playlist/index.m3u8
+http://mn-nl.mncdn.com/dogusdyg_star/live.m3u8?st=M2OnUwhbvOESzFs6kEM1kA&e=1769689873
 #EXTINF:-1 tvg-name="SHOW" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-name="SHOW" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 TV",SHOW
@@ -437,7 +437,7 @@ https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/64
 https://anym3u8player.com/youtube.php/id/68f4caf65cc31.m3u8
 #EXTINF:-1 tvg-name="SHOW MAX" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="Uncategorized",SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-#EXTINF:-1 tvg-name="SHOW MAX" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="Uncategorized",SHOW MAX
+#EXTINF:-1 tvg-name="SHOW MAX" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="|TR|🇹🇷 TV",SHOW MAX
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Uncategorized",A2
 https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8
@@ -1269,3 +1269,7 @@ http://37.247.98.8/stream/33/?/;?type=mp3
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-name="DIYANET TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png" group-title="|TR|🇹🇷 Islam",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtN8v94c/makkahtv.png" group-title="|TR|🇹🇷 Islam",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="|TR|🇹🇷 TV",NOW TV (fox tv)
+http://116.202.238.88/FOXTV_TR/index.m3u8
