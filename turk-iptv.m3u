@@ -151,7 +151,7 @@ https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-name="NTV (backup)" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Uncategorized",NTV (backup)
 http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
-#EXTINF:-1 tvg-name="NTV (backup)" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 TV",NTV 
+#EXTINF:-1 tvg-name="NTV (backup)" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR|🇹🇷 TV",NTV
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 tvg-name="NTV (backup)" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Uncategorized",NTV (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
@@ -387,15 +387,15 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 #EXTINF:-1 tvg-name="AKILLI TV" tvg-logo="https://i.ibb.co/8dQdNrv/akilli22.png" group-title="Uncategorized",AKILLI TV
 https://yayin.santraltr.com/hls/akillitv.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Uncategorized",DMAX
-http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="|TR|🇹🇷 TV",DMAX
+https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Uncategorized",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-name="TLC TR" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Uncategorized",TLC TR
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 tvg-name="TLC TR" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Uncategorized",TLC TR
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 tvg-name="360" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="Uncategorized",360
+#EXTINF:-1 tvg-name="360" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="|TR|🇹🇷 TV",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="360" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="Uncategorized",360
 https://tv.ensonhaber.com/tv360/tv360.m3u8
@@ -733,16 +733,16 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 #EXTINF:-1 tvg-name="KRAL - KRAL POP (backup)" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="Uncategorized",KRAL - KRAL POP (backup)
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
-#EXTINF:-1 tvg-name="TRT TÜRK" tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="Uncategorized",TRT TÜRK
+#EXTINF:-1 tvg-name="TRT TÜRK" tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="|TR|🇹🇷 TV",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="Uncategorized",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="|TR|🇹🇷 TV",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="Uncategorized",KANAL 7 AVRUPA
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kanal7avrupa.m3u8
 #EXTINF:-1 tvg-name="SHOW TÜRK" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="Uncategorized",SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
-#EXTINF:-1 tvg-name="SHOW TÜRK" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="Uncategorized",SHOW TÜRK
-https://ythls.armelin.one/video/XnvS-RZa4Qw.m3u8
+#EXTINF:-1 tvg-name="SHOW TÜRK" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 TV",SHOW TÜRK
+https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1769713313&st=U8djoSJ_G_B3M64I1B_oJQ&tv=1
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="|TR|🇹🇷 TV",EURO D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-name="EURO D (geçici geçerli)" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="Uncategorized",EURO D (geçici geçerli)
@@ -751,7 +751,7 @@ https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=2BDTXNoBg75XP5AoKiE-4Q&e=1769741156
 #EXTINF:-1 tvg-name="EURO STAR (geçici geçerli)" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="Uncategorized",EURO STAR (geçici geçerli)
 https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
-#EXTINF:-1 tvg-name="ATV AVRUPA (geçici geçerli)" tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="Uncategorized",ATV AVRUPA (geçici geçerli)
+#EXTINF:-1 tvg-name="ATV AVRUPA " tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="|TR|🇹🇷 TV",ATV AVRUPA ( BOZUK!! )
 http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8 INT (geçici geçerli)" tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="Uncategorized",TV8 INT (geçici geçerli)
 http://162.212.179.33/dvrfl05/gin-tv8int/index.m3u8
