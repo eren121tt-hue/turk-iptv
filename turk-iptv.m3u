@@ -753,8 +753,8 @@ https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=2B
 https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV AVRUPA " tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="Uncategorized",ATV AVRUPA ( BOZUK!! )
 http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
-#EXTINF:-1 tvg-name="TV8 INT (geçici geçerli)" tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="Uncategorized",TV8 INT (geçici geçerli)
-http://162.212.179.33/dvrfl05/gin-tv8int/index.m3u8
+#EXTINF:-1 tvg-name="TV8 INT" tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="|TR|🇹🇷 TV",TV8 INT
+https://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="|TR|🇹🇷 TV",TGRT EU
 https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="Uncategorized",TGRT EU
