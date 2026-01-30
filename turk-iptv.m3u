@@ -742,13 +742,13 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kanal7avru
 #EXTINF:-1 tvg-name="SHOW TÜRK" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="Uncategorized",SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:-1 tvg-name="SHOW TÜRK" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="|TR|🇹🇷 TV",SHOW TÜRK
-https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1769713313&st=U8djoSJ_G_B3M64I1B_oJQ&tv=1
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1769787111&st=W-BgNviSIVo-bjsuov1PbA&tv=1
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="|TR|🇹🇷 TV",EURO D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-name="EURO D (geçici geçerli)" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="Uncategorized",EURO D (geçici geçerli)
 https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #EXTINF:-1 tvg-name="EURO STAR" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="|TR|🇹🇷 TV",EURO STAR
-https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=2BDTXNoBg75XP5AoKiE-4Q&e=1769741156
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1 tvg-name="EURO STAR (geçici geçerli)" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="Uncategorized",EURO STAR (geçici geçerli)
 https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV AVRUPA " tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="Uncategorized",ATV AVRUPA ( BOZUK!! )
