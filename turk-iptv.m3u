@@ -212,7 +212,7 @@ https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER (backup)" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Uncategorized",TGRT HABER (backup)
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="|TR|🇹🇷 TV",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Uncategorized",KANAL D
@@ -220,7 +220,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Uncategorized",KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-name="STAR" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="|TR|🇹🇷 TV",STAR
-http://mn-nl.mncdn.com/dogusdyg_star/live.m3u8?st=M2OnUwhbvOESzFs6kEM1kA&e=1769689873
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 tvg-name="SHOW" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-name="SHOW" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="|TR|🇹🇷 TV",SHOW
